@@ -1,0 +1,101 @@
+ID,Salario (R$),Idade,Escolaridade,No de Filhos
+1,4200,32,Superior Completo,1
+2,3500,28,Superior Incompleto,0
+3,5800,40,Pos-graduacao,2
+4,2300,22,Ensino Medio,0
+5,6700,45,Mestrado,3
+6,3900,35,Superior Completo,1
+7,5100,38,Superior Completo,2
+8,1800,20,Ensino Medio,0
+9,6200,42,Pos-graduacao,1
+10,2900,25,Superior Incompleto,0
+11,4800,36,Superior Completo,1
+12,5400,39,Pos-graduacao,2
+13,3200,30,Superior Completo,0
+14,4100,33,Superior Completo,1
+15,7500,50,Mestrado,3
+16,2700,26,Ensino Medio,0
+17,3800,34,Superior Completo,1
+18,6300,43,Pos-graduacao,2
+19,4400,37,Superior Completo,1
+20,5200,40,Superior Completo,2
+21,1900,21,Ensino Medio,0
+22,4600,36,Superior Completo,1
+23,5900,41,Pos-graduacao,2
+24,3300,31,Superior Completo,0
+25,7200,48,Mestrado,3
+26,2500,24,Ensino Medio,0
+27,4000,35,Superior Completo,1
+28,6500,44,Pos-graduacao,2
+29,4700,38,Superior Completo,1
+30,5300,40,Superior Completo,2
+31,2000,22,Ensino Medio,0
+32,4900,37,Superior Completo,1
+33,6000,42,Pos-graduacao,2
+34,3400,32,Superior Completo,0
+35,6800,46,Mestrado,3
+36,2600,25,Ensino Medio,0
+37,4200,36,Superior Completo,1
+38,6400,43,Pos-graduacao,2
+39,4500,37,Superior Completo,1
+40,5500,41,Superior Completo,2
+41,2100,23,Ensino Medio,0
+42,5000,38,Superior Completo,1
+43,6100,42,Pos-graduacao,2
+44,3500,33,Superior Completo,0
+45,7000,47,Mestrado,3
+46,2800,27,Ensino Medio,0
+47,4300,36,Superior Completo,1
+48,6600,44,Pos-graduacao,2
+49,4800,39,Superior Completo,1
+50,5600,41,Superior Completo,2
+51,2200,24,Ensino Medio,0
+52,5100,39,Superior Completo,1
+53,6200,43,Pos-graduacao,2
+54,3600,34,Superior Completo,0
+55,7300,49,Mestrado,3
+56,2900,28,Ensino Medio,0
+57,4400,37,Superior Completo,1
+58,6700,45,Pos-graduacao,2
+59,4900,40,Superior Completo,1
+60,5700,42,Superior Completo,2
+61,2300,25,Ensino Medio,0
+62,5200,40,Superior Completo,1
+63,6300,44,Pos-graduacao,2
+64,3700,35,Superior Completo,0
+65,7400,50,Mestrado,3
+66,3000,29,Ensino Medio,0
+67,4500,38,Superior Completo,1
+68,6800,46,Pos-graduacao,2
+69,5000,41,Superior Completo,1
+70,5800,43,Superior Completo,2
+71,2400,26,Ensino Medio,0
+72,5300,41,Superior Completo,1
+73,6400,45,Pos-graduacao,2
+74,3800,36,Superior Completo,0
+75,7600,52,Mestrado,4
+76,3100,30,Ensino Medio,0
+77,4600,39,Superior Completo,1
+78,6900,47,Pos-graduacao,2
+79,5100,42,Superior Completo,1
+80,5900,44,Superior Completo,2
+81,2500,27,Ensino Medio,0
+82,5400,42,Superior Completo,1
+83,6500,46,Pos-graduacao,2
+84,3900,37,Superior Completo,0
+85,7800,54,Mestrado,4
+86,3200,31,Ensino Medio,0
+87,4700,40,Superior Completo,1
+88,7000,48,Pos-graduacao,2
+89,5200,43,Superior Completo,1
+90,6000,45,Superior Completo,2
+91,2600,28,Ensino Medio,0
+92,5500,43,Superior Completo,1
+93,6600,47,Pos-graduacao,2
+94,4000,38,Superior Completo,0
+95,8000,55,Mestrado,4
+96,3300,32,Ensino Medio,0
+97,4800,41,Superior Completo,1
+98,7100,49,Pos-graduacao,2
+99,5300,44,Superior Completo,1
+100,6200,46,Superior Completo,2
