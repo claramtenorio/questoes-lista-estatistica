@@ -1,6 +1,6 @@
 import csv
 import statistics
-from collections import Counter # Importado para ajudar a encontrar o modo para a quantidade de filhos
+from collections import Counter #para calcular num de filhos
 
 def dados_sobre_funcionarios(file_path='funcionarios.csv'):
     
